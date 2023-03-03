@@ -1,6 +1,6 @@
-## react-map-component
+# react-map-component
 
-# Build/Run
+## Build/Run
 
 #### Requirements
 

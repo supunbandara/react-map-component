@@ -1,0 +1,292 @@
+{
+  "regions": [
+    { "id": "1", "title": "Northland" },
+    { "id": "2", "title": "Auckland" },
+    { "id": "3", "title": "Waikato / Coromandel" },
+    { "id": "14", "title": "Taupo" },
+    { "id": "13", "title": "Tauranga" },
+    { "id": "12", "title": "Palmerston North" },
+    { "id": "4", "title": "Hawke's Bay / Gisborne" },
+    { "id": "5", "title": "Taranaki" },
+    { "id": "6", "title": "Nelson / Tasman" },
+    { "id": "7", "title": "Marlborough" },
+    { "id": "8", "title": "West Coast" },
+    { "id": "9", "title": "Canterbury" },
+    { "id": "15", "title": "Wanaka" },
+    { "id": "10", "title": "Otago" },
+    { "id": "11", "title": "Southland" }
+  ],
+
+  "search": [
+    {
+      "id": 9,
+      "title": "Ipsum Donec Foundation",
+      "phone": "055 4188 2483",
+      "email": "phasellus.nulla.integer@google.org",
+      "address": "251-6538 Enim. St.",
+      "latitude": "-35.3212752",
+      "longitude": "174.1128082",
+      "region": 1
+    },
+    {
+      "id": 11,
+      "title": "Ultrices A Foundation",
+      "phone": "0960 270 7113",
+      "email": "donec.sollicitudin@outlook.net",
+      "address": "265-8417 Sed Road",
+      "latitude": "-35.6808342",
+      "longitude": "174.3063506",
+      "region": 1
+    },
+    {
+      "id": 12,
+      "title": "Vel Nisl Quisque Incorporated",
+      "phone": "(019518) 42206",
+      "email": "nisi.magna.sed@yahoo.edu",
+      "address": "Ap #650-5690 Enim St.",
+      "latitude": "-35.7256282",
+      "longitude": "174.331238",
+      "region": 1
+    },
+    {
+      "id": 13,
+      "title": "A Enim LLC",
+      "phone": "(0117) 551 0356",
+      "email": "cursus.vestibulum@hotmail.edu",
+      "address": "978-7123 Vestibulum Street",
+      "latitude": "-36.6323818",
+      "longitude": "174.7373756",
+      "region": 2
+    },
+    {
+      "id": 14,
+      "title": "In Scelerisque LLP",
+      "phone": "0844 589 9471",
+      "email": "fringilla.porttitor@hotmail.org",
+      "address": "624-672 Augue Av.",
+      "latitude": "-36.7505472",
+      "longitude": "174.7074517",
+      "region": 2
+    },
+    {
+      "id": 15,
+      "title": "Donec Nibh Consulting",
+      "phone": "(01127) 61416",
+      "email": "ipsum.non@yahoo.ca",
+      "address": "852-4756 Fames Rd.",
+      "latitude": "-36.9319407",
+      "longitude": "174.8912033",
+      "region": 2
+    },
+    {
+      "id": 17,
+      "title": "Donec Foundation",
+      "phone": "07624 141725",
+      "email": "mauris.ipsum@icloud.ca",
+      "address": "830-9562 Ultrices Av.",
+      "latitude": "-36.8914699",
+      "longitude": "174.8338791",
+      "region": 2
+    },
+    {
+      "id": 18,
+      "title": "Mi Tempor Lorem Institute",
+      "phone": "0800 064448",
+      "email": "est@icloud.org",
+      "address": "317-4630 Aenean Rd.",
+      "latitude": "-36.9893354",
+      "longitude": "174.8696192",
+      "region": 2
+    },
+    {
+      "id": 19,
+      "title": "Mauris Sit Amet PC",
+      "phone": "(01478) 769759",
+      "email": "tempor@yahoo.org",
+      "address": "599-4274 Convallis St.",
+      "latitude": "-36.7600779",
+      "longitude": "175.4975465",
+      "region": 2
+    },
+    {
+      "id": 20,
+      "title": "Eros Non LLC",
+      "phone": "(0116) 426 3392",
+      "email": "natoque.penatibus@protonmail.ca",
+      "address": "Ap #774-4780 Amet, Avenue",
+      "latitude": "-37.7460556",
+      "longitude": "175.1915897",
+      "region": 3
+    },
+    {
+      "id": 21,
+      "title": "Accumsan Convallis Ante Foundation",
+      "phone": "(0115) 861 7046",
+      "email": "nulla@icloud.net",
+      "address": "393-9828 Auctor Rd.",
+      "latitude": "-37.7424854",
+      "longitude": "175.2300791",
+      "region": 3
+    },
+    {
+      "id": 22,
+      "title": "Consectetuer Adipiscing Elit Limited",
+      "phone": "(01601) 366738",
+      "email": "nec.mollis@outlook.com",
+      "address": "P.O. Box 151, 436 Aliquet Road",
+      "latitude": "-38.0046723",
+      "longitude": "175.3341762",
+      "region": 3
+    },
+    {
+      "id": 7,
+      "title": "Sollicitudin Commodo Associates",
+      "phone": "(0101) 121 7519",
+      "email": "auctor.nunc@yahoo.net",
+      "address": "Ap #390-3312 Enim. Road",
+      "latitude": "-39.49673",
+      "longitude": "176.8874937",
+      "region": 3
+    },
+    {
+      "id": 23,
+      "title": "Eros Non Incorporated",
+      "phone": "0800 976 1278",
+      "email": "nec@outlook.net",
+      "address": "Ap #151-8411 Nunc St.",
+      "latitude": "-38.6616566",
+      "longitude": "178.0160907",
+      "region": 14
+    },
+    {
+      "id": 24,
+      "title": "Amet Consectetuer LLC",
+      "phone": "076 0635 4546",
+      "email": "cursus.in@aol.ca",
+      "address": "Ap #746-2158 Diam Ave",
+      "latitude": "-39.0595684",
+      "longitude": "174.0477582",
+      "region": 13
+    },
+    {
+      "id": 25,
+      "title": "Facilisis Lorem LLC",
+      "phone": "055 2175 8194",
+      "email": "aliquet.sem@yahoo.net",
+      "address": "Ap #272-222 Consequat Rd.",
+      "latitude": "-41.32514219999999",
+      "longitude": "173.2125767",
+      "region": 12
+    },
+    {
+      "id": 27,
+      "title": "Imperdiet Associates",
+      "phone": "0500 714700",
+      "email": "diam.sed@protonmail.couk",
+      "address": "5396 Pede. Ave",
+      "latitude": "-41.5117799",
+      "longitude": "173.9631264",
+      "region": 4
+    },
+    {
+      "id": 4,
+      "title": "Vestibulum Limited",
+      "phone": "0800 1111",
+      "email": "netus.et.malesuada@google.net",
+      "address": "753-343 Lorem Ave",
+      "latitude": "-43.5511054",
+      "longitude": "172.5667877",
+      "region": 4
+    },
+    {
+      "id": 26,
+      "title": "Pede Consulting",
+      "phone": "056 1145 5088",
+      "email": "quisque@aol.edu",
+      "address": "Ap #354-4376 Augue, Street",
+      "latitude": "-42.4481526",
+      "longitude": "171.2071234",
+      "region": 5
+    },
+    {
+      "id": 3,
+      "title": "Non LLC",
+      "phone": "(028) 6279 9153",
+      "email": "ultrices.posuere.cubilia@aol.edu",
+      "address": "979-328 Nascetur Rd.",
+      "latitude": "-43.54032489999999",
+      "longitude": "172.6598004",
+      "region": 6
+    },
+    {
+      "id": 6,
+      "title": "Velit Sed Ltd",
+      "phone": "0800 425783",
+      "email": "et.tristique@google.edu",
+      "address": "1214 Vulputate, Avenue",
+      "latitude": "-43.6218018",
+      "longitude": "172.5576997",
+      "region": 7
+    },
+    {
+      "id": 28,
+      "title": "Eleifend Nunc LLP",
+      "phone": "07342 261465",
+      "email": "lacinia@yahoo.net",
+      "address": "167-4690 Et Av.",
+      "latitude": "-45.0767981",
+      "longitude": "170.9864555",
+      "region": 8
+    },
+    {
+      "id": 29,
+      "title": "Placerat Cras Dictum Limited",
+      "phone": "055 2475 6830",
+      "email": "elit@google.com",
+      "address": "958-1229 Amet, Rd.",
+      "latitude": "-46.1826031",
+      "longitude": "169.84248",
+      "region": 9
+    },
+    {
+      "id": 30,
+      "title": "Justo Sit Amet Incorporated",
+      "phone": "055 5280 8617",
+      "email": "sit.amet@hotmail.edu",
+      "address": "491 Nascetur Rd.",
+      "latitude": "-46.3887144",
+      "longitude": "168.3451617",
+      "region": 10
+    },
+    {
+      "id": 31,
+      "title": "Donec Non Limited",
+      "phone": "0800 507752",
+      "email": "leo.in.lobortis@outlook.net",
+      "address": "Ap #673-1544 Varius Ave",
+      "latitude": "-37.6648965",
+      "longitude": "176.1921225",
+      "region": 11
+    },
+    {
+      "id": 10,
+      "title": "Mauris Non Associates",
+      "phone": "076 7341 2264",
+      "email": "nec@aol.org",
+      "address": "Ap #545-9079 Egestas Av.",
+      "latitude": "30",
+      "longitude": "0",
+      "region": 15
+    },
+    {
+      "id": 32,
+      "title": "Mollis PC",
+      "phone": "(016977) 4533",
+      "email": "suspendisse.commodo@aol.net",
+      "address": "P.O. Box 757, 680 Nisi Avenue",
+      "latitude": "-44.7049727",
+      "longitude": "169.1501192",
+      "region": 15
+    }
+  ]
+}
